@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#python3
 """Plan and apply safe file moves by extension."""
 import argparse, shutil
 from pathlib import Path
